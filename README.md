@@ -4,4 +4,4 @@
 
 Totalement inspiré de https://estcequecestbientotleweekend.fr/
 
-Ce site vous donnera toujours la même réponse... puisqu'il est toujours l'heure du café ! \(^0^)/
+Ce site vous donnera toujours la même réponse... puisqu'il est toujours l'heure du café ! \\(^0^)/
