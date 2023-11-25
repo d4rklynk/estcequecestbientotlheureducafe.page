@@ -10,4 +10,5 @@
   Cross-Origin-Opener-Policy : same-origin
 
 /*.css
-Access-Control-Allow-Origin: https://estcequecestbientotlheureducafe.page, https://www.srihash.org
+#Access-Control-Allow-Origin: https://estcequecestbientotlheureducafe.page, https://www.srihash.org
+Access-Control-Allow-Origin: *
