@@ -9,5 +9,5 @@
   Cross-Origin-Embedder-Policy : require-corp
   Cross-Origin-Opener-Policy : same-origin
 
-#/*.css
-#  Access-Control-Allow-Origin: https://estcequecestbientotlheureducafe.page, https://www.srihash.org
+/*.css
+Access-Control-Allow-Origin: https://estcequecestbientotlheureducafe.page, https://www.srihash.org
