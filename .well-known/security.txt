@@ -5,11 +5,11 @@ Contact: mailto:contact@samsepi0l.dev
 Expires: 2024-11-28T19:00:00.000Z
 Encryption: https://samsepi0l.dev/public-pgp-key.asc
 Preferred-Languages: fr, en
-Canonical: https://estcequecestbientotlheureducafe.page
+Canonical: https://estcequecestbientotlheureducafe.page/.well-known/security.txt
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTogFi4p/GtNCxpie4h5Zniq5Ap9wUCZWs1WwAKCRAh5Zniq5Ap
-94/7AP9+9sUxKkFBmnPoByVVrz5TdmLCVEjXQz5LLvG2NdGHqQEA77QPEkce0jQX
-ioMuRpb7kMqQkSy6Ek9hVFyJDB8PIgA=
-=zI8w
+iHUEARYKAB0WIQTogFi4p/GtNCxpie4h5Zniq5Ap9wUCZWs3bAAKCRAh5Zniq5Ap
+9/9bAQChj3DVbJsCy20vINjh8/8dVjkPScfHawByDEMnfz1FtgEA2h/jo3GRURVg
+5/LMlFOO6s66BcvKRj2206hHiYZ+RwQ=
+=x1eB
 -----END PGP SIGNATURE-----
