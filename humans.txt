@@ -1,0 +1,26 @@
+Ce site a un but vital qui est de vous dire quand il est l'heure du café, car nous avons souvent tendance à l'oublier au travail.
+Ce site s'aligne sur le même ton humoristique que :
+
+- https://estcequecestbientotleweekend.fr/
+- https://estcequecestbientotlapero.fr/
+- https://www.estcequonmetenprodaujourdhui.info/
+- https://www.perdu.com/
+
+/* TEAM */
+
+Content Creator: samsepi0l
+Email: contact@samsepi0l.dev
+PGP Key: https://samsepi0l.dev/public-pgp-key.asc
+Twitter: https://twitter.com/samsepi0l753
+Mastodon: https://infosec.exchange/@samsepi0l
+Matrix: https://invite.arcticfoxes.net/#/@samsepi0l:arcticfoxes.net
+GitHub: https://github.com/d4rklynk
+From: France
+
+/* SITE */
+
+J’utilise Netlify pour l’hébergement du site.
+J’utilise Porkbun pour le nom de domaine estcequecestbientotlheureducafe.page et deSEC.io pour les serveurs DNS.
+J’utilise GitHub afin d’héberger le dépôt git.
+
+J’ai sécurisé le site au maximum de ses capacités, vous pouvez voir le rapport complet de Internet.nl via ce lien (https://internet.nl/site/estcequecestbientotlheureducafe.page/2522707/) et le rapport de Hardenize via ce lien (https://www.hardenize.com/report/estcequecestbientotlheureducafe.page).
