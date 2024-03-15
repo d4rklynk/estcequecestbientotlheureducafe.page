@@ -2,14 +2,14 @@
 Hash: SHA512
 
 Contact: mailto:contact@samsepi0l.dev
-Expires: 2024-11-28T19:00:00.000Z
-Encryption: https://samsepi0l.dev/public-pgp-key.asc
+Expires: 2025-03-15T00:00:00Z
+Encryption: https://samsepi0l.dev/pub-key.txt
 Preferred-Languages: fr, en
 Canonical: https://estcequecestbientotlheureducafe.page/.well-known/security.txt
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTogFi4p/GtNCxpie4h5Zniq5Ap9wUCZWs3bAAKCRAh5Zniq5Ap
-9/9bAQChj3DVbJsCy20vINjh8/8dVjkPScfHawByDEMnfz1FtgEA2h/jo3GRURVg
-5/LMlFOO6s66BcvKRj2206hHiYZ+RwQ=
-=x1eB
+iHUEARYKAB0WIQTogFi4p/GtNCxpie4h5Zniq5Ap9wUCZfR64AAKCRAh5Zniq5Ap
+9z9vAQD3Nt4pQkVcIpZVEAE3poVQQuNIRLlV1jRBZR7byfdf7QEA3vGHb9HKkx56
+YtwtVdYWP11za//pIfdetYvDmuQZJQ0=
+=Rrj2
 -----END PGP SIGNATURE-----

@@ -10,7 +10,7 @@ Ce site s'aligne sur le même ton humoristique que :
 
 Content Creator: samsepi0l
 Email: contact@samsepi0l.dev
-PGP Key: https://samsepi0l.dev/public-pgp-key.asc
+PGP Key: https://samsepi0l.dev/pub-key.txt
 Twitter: https://twitter.com/samsepi0l753
 Mastodon: https://infosec.exchange/@samsepi0l
 Matrix: https://invite.arcticfoxes.net/#/@samsepi0l:arcticfoxes.net
